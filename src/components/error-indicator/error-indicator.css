@@ -1,0 +1,22 @@
+.error-indicator {
+    width: 100%;
+    max-width: 300px;
+    position: relative;
+    margin: 0 auto;
+    color: tomato;
+    text-align: center;
+}
+
+.error-indicator .boom {
+    font-size: 2em;
+    display: block;
+}
+
+span {
+    display: block;
+}
+
+.error-indicator img {
+    width: 100px;
+    height: 100px;
+}
